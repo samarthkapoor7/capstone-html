@@ -1,1 +1,1 @@
-# html-capstone
+# capstone-html
